@@ -7,7 +7,7 @@ Risotto is an Open Source dotfile manager for linux developed as an Undergraduat
 Risotto is available in two ways: a native desktop application built in Rust, and a web platform built with Vue.js and Laravel
 
 ## Features
-*⚠️ This project is under active development. The features below represent the planned scope and what is currently being implemented.*
+> *⚠️ This project is under active development. The features below represent the planned scope and what is currently being implemented.*
 
 ## Installation
 ### prerequisites
