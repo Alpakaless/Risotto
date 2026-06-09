@@ -9,9 +9,17 @@ Risotto is available in two ways: a native desktop application built in Rust, an
 ## Features
 > *⚠️ This project is under active development. The features below represent the planned scope and what is currently being implemented.*
 
-## Installation
+## Installation / Usage
 ### prerequisites
 - Rust
+
+### Compiling:
+
+```
+git clone https://github.com/alpakaless/risotto.git
+cd risotto
+cargo build --release
+```
 
 ## Contributing
 This is an academic project (undergraduate thesis), but contributions, suggestions, and feedback are very welcome!
